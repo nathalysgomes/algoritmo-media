@@ -23,4 +23,4 @@ Fim
 
 --------------------------------------------------------
 
-![fluxograma](https://github.com/nathalysgomes/algoritmo-media/blob/main/exercicio_media%20(1).png)
+![fluxograma](https://github.com/nathalysgomes/algoritmo-media/blob/main/exercicio_media.png)
